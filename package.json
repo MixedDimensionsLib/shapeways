@@ -1,0 +1,120 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "mixeddimensions-shapeways",
+        "scope": null,
+        "escapedName": "mixeddimensions-shapeways",
+        "name": "mixeddimensions-shapeways",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/abed/gameprint"
+    ],
+    [
+      {
+        "raw": "mixeddimensions-shapeways",
+        "scope": null,
+        "escapedName": "mixeddimensions-shapeways",
+        "name": "mixeddimensions-shapeways",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/abed/gameprint"
+    ]
+  ],
+  "_from": "mixeddimensions-shapeways",
+  "_id": "mixeddimensions-shapeways@1.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/mixeddimensions-shapeways",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/mixeddimensions-shapeways-1.0.3.tgz_1482920730922_0.8781866542994976"
+  },
+  "_npmUser": {
+    "name": "abed.jaradat",
+    "email": "abedjaradat2014@gmail.com"
+  },
+  "_npmVersion": "3.10.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "mixeddimensions-shapeways",
+    "scope": null,
+    "escapedName": "mixeddimensions-shapeways",
+    "name": "mixeddimensions-shapeways",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/mixeddimensions-shapeways/-/mixeddimensions-shapeways-1.0.3.tgz",
+  "_shasum": "edc232019131f1167d787eef10d75f1b0f511a9b",
+  "_shrinkwrap": null,
+  "_spec": "mixeddimensions-shapeways",
+  "_where": "/home/abed/gameprint",
+  "author": {
+    "name": "Shapeways",
+    "email": "api@shapeways.com",
+    "url": "http://developers.shapeways.com"
+  },
+  "bugs": {
+    "url": "https://github.com/MixedDimensionsLib/shapeways/issues"
+  },
+  "contributors": [
+    {
+      "name": "abedjaradat",
+      "url": "abedjaradat2014@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "mixeddimensions-oauth": "~0.9.11"
+  },
+  "description": "node.js module for accessing the Shapeways Api http://developers.shapeways.com/",
+  "devDependencies": {
+    "coveralls": "~2.6.1",
+    "jscoverage": "~0.3.8",
+    "jsdoc": "~3.3.0-alpha3",
+    "mocha": "~1.17.0",
+    "mocha-lcov-reporter": "0.0.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "edc232019131f1167d787eef10d75f1b0f511a9b",
+    "tarball": "https://registry.npmjs.org/mixeddimensions-shapeways/-/mixeddimensions-shapeways-1.0.3.tgz"
+  },
+  "gitHead": "858676901fb01027229002340b47bbe2f4eb71fc",
+  "homepage": "https://github.com/Shapeways/node-shapeways",
+  "keywords": [
+    "gameprint",
+    "shapeways",
+    "api",
+    "3d",
+    "modeling",
+    "printing"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "abed.jaradat",
+      "email": "abedjaradat2014@gmail.com"
+    }
+  ],
+  "name": "mixeddimensions-shapeways",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MixedDimensionsLib/shapeways.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "1.0.3"
+}
